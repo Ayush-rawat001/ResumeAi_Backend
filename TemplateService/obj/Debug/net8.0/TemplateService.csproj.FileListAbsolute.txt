@@ -1,0 +1,230 @@
+D:\final project\TemplateService\bin\Debug\net8.0\appsettings.Development.json
+D:\final project\TemplateService\bin\Debug\net8.0\appsettings.json
+D:\final project\TemplateService\bin\Debug\net8.0\TemplateService.staticwebassets.endpoints.json
+D:\final project\TemplateService\bin\Debug\net8.0\TemplateService.exe
+D:\final project\TemplateService\bin\Debug\net8.0\TemplateService.deps.json
+D:\final project\TemplateService\bin\Debug\net8.0\TemplateService.runtimeconfig.json
+D:\final project\TemplateService\bin\Debug\net8.0\TemplateService.dll
+D:\final project\TemplateService\bin\Debug\net8.0\TemplateService.pdb
+D:\final project\TemplateService\bin\Debug\net8.0\Humanizer.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Npgsql.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\final project\TemplateService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\final project\TemplateService\bin\Debug\net8.0\System.CodeDom.dll
+D:\final project\TemplateService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\final project\TemplateService\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\final project\TemplateService\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\final project\TemplateService\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\final project\TemplateService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\final project\TemplateService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\final project\TemplateService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final project\TemplateService\obj\Debug\net8.0\TemplateService.csproj.AssemblyReference.cache
+D:\final project\TemplateService\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\final project\TemplateService\obj\Debug\net8.0\TemplateService.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project\TemplateService\obj\Debug\net8.0\TemplateService.AssemblyInfoInputs.cache
+D:\final project\TemplateService\obj\Debug\net8.0\TemplateService.AssemblyInfo.cs
+D:\final project\TemplateService\obj\Debug\net8.0\TemplateService.csproj.CoreCompileInputs.cache
+D:\final project\TemplateService\obj\Debug\net8.0\TemplateService.MvcApplicationPartsAssemblyInfo.cs
+D:\final project\TemplateService\obj\Debug\net8.0\TemplateService.MvcApplicationPartsAssemblyInfo.cache
+D:\final project\TemplateService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\final project\TemplateService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\final project\TemplateService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\final project\TemplateService\obj\Debug\net8.0\scopedcss\bundle\TemplateService.styles.css
+D:\final project\TemplateService\obj\Debug\net8.0\staticwebassets.build.json
+D:\final project\TemplateService\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\final project\TemplateService\obj\Debug\net8.0\staticwebassets.development.json
+D:\final project\TemplateService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\final project\TemplateService\obj\Debug\net8.0\swae.build.ex.cache
+D:\final project\TemplateService\obj\Debug\net8.0\Template.86AD7980.Up2Date
+D:\final project\TemplateService\obj\Debug\net8.0\TemplateService.dll
+D:\final project\TemplateService\obj\Debug\net8.0\refint\TemplateService.dll
+D:\final project\TemplateService\obj\Debug\net8.0\TemplateService.pdb
+D:\final project\TemplateService\obj\Debug\net8.0\TemplateService.genruntimeconfig.cache
+D:\final project\TemplateService\obj\Debug\net8.0\ref\TemplateService.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\appsettings.Development.json
+D:\finalproject2\TemplateService\bin\Debug\net8.0\appsettings.json
+D:\finalproject2\TemplateService\bin\Debug\net8.0\TemplateService.staticwebassets.endpoints.json
+D:\finalproject2\TemplateService\bin\Debug\net8.0\TemplateService.exe
+D:\finalproject2\TemplateService\bin\Debug\net8.0\TemplateService.deps.json
+D:\finalproject2\TemplateService\bin\Debug\net8.0\TemplateService.runtimeconfig.json
+D:\finalproject2\TemplateService\bin\Debug\net8.0\TemplateService.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\TemplateService.pdb
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Humanizer.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Npgsql.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\System.CodeDom.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\finalproject2\TemplateService\obj\Debug\net8.0\TemplateService.csproj.AssemblyReference.cache
+D:\finalproject2\TemplateService\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\finalproject2\TemplateService\obj\Debug\net8.0\TemplateService.GeneratedMSBuildEditorConfig.editorconfig
+D:\finalproject2\TemplateService\obj\Debug\net8.0\TemplateService.AssemblyInfoInputs.cache
+D:\finalproject2\TemplateService\obj\Debug\net8.0\TemplateService.AssemblyInfo.cs
+D:\finalproject2\TemplateService\obj\Debug\net8.0\TemplateService.csproj.CoreCompileInputs.cache
+D:\finalproject2\TemplateService\obj\Debug\net8.0\TemplateService.MvcApplicationPartsAssemblyInfo.cs
+D:\finalproject2\TemplateService\obj\Debug\net8.0\TemplateService.MvcApplicationPartsAssemblyInfo.cache
+D:\finalproject2\TemplateService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\finalproject2\TemplateService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\finalproject2\TemplateService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\finalproject2\TemplateService\obj\Debug\net8.0\scopedcss\bundle\TemplateService.styles.css
+D:\finalproject2\TemplateService\obj\Debug\net8.0\staticwebassets.build.json
+D:\finalproject2\TemplateService\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\finalproject2\TemplateService\obj\Debug\net8.0\staticwebassets.development.json
+D:\finalproject2\TemplateService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\finalproject2\TemplateService\obj\Debug\net8.0\swae.build.ex.cache
+D:\finalproject2\TemplateService\obj\Debug\net8.0\Template.86AD7980.Up2Date
+D:\finalproject2\TemplateService\obj\Debug\net8.0\TemplateService.dll
+D:\finalproject2\TemplateService\obj\Debug\net8.0\refint\TemplateService.dll
+D:\finalproject2\TemplateService\obj\Debug\net8.0\TemplateService.pdb
+D:\finalproject2\TemplateService\obj\Debug\net8.0\TemplateService.genruntimeconfig.cache
+D:\finalproject2\TemplateService\obj\Debug\net8.0\ref\TemplateService.dll

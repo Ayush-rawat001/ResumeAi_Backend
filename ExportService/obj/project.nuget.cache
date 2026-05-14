@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "dgSpecHash": "GwmtQPQJ5lo=",
+  "success": true,
+  "projectFilePath": "D:\\finalproject2\\ExportService\\ExportService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rawat\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.0\\microsoft.aspnetcore.authentication.jwtbearer.7.0.0.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.1\\microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\questpdf\\2026.2.4\\questpdf.2026.2.4.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "C:\\Users\\rawat\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "ExportService depends on Microsoft.AspNetCore.Authentication.JwtBearer (>= 6.5.0) but Microsoft.AspNetCore.Authentication.JwtBearer 6.5.0 was not found. Microsoft.AspNetCore.Authentication.JwtBearer 7.0.0 was resolved instead.",
+      "projectPath": "D:\\finalproject2\\ExportService\\ExportService.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\finalproject2\\ExportService\\ExportService.csproj",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "ExportService depends on Microsoft.AspNetCore.OpenApi (>= 6.5.0) but Microsoft.AspNetCore.OpenApi 6.5.0 was not found. Microsoft.AspNetCore.OpenApi 7.0.0 was resolved instead.",
+      "projectPath": "D:\\finalproject2\\ExportService\\ExportService.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\finalproject2\\ExportService\\ExportService.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

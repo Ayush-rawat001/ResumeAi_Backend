@@ -1,0 +1,8 @@
+D:\final project\AuthService\obj\Debug\net10.0\AuthService.csproj.AssemblyReference.cache
+D:\final project\AuthService\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\final project\AuthService\obj\Debug\net10.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project\AuthService\obj\Debug\net10.0\AuthService.AssemblyInfoInputs.cache
+D:\final project\AuthService\obj\Debug\net10.0\AuthService.AssemblyInfo.cs
+D:\final project\AuthService\obj\Debug\net10.0\AuthService.csproj.CoreCompileInputs.cache
+D:\final project\AuthService\obj\Debug\net10.0\AuthService.MvcApplicationPartsAssemblyInfo.cs
+D:\final project\AuthService\obj\Debug\net10.0\AuthService.MvcApplicationPartsAssemblyInfo.cache

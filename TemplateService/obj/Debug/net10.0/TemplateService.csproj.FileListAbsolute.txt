@@ -1,0 +1,8 @@
+D:\final project\TemplateService\obj\Debug\net10.0\TemplateService.csproj.AssemblyReference.cache
+D:\final project\TemplateService\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\final project\TemplateService\obj\Debug\net10.0\TemplateService.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project\TemplateService\obj\Debug\net10.0\TemplateService.AssemblyInfoInputs.cache
+D:\final project\TemplateService\obj\Debug\net10.0\TemplateService.AssemblyInfo.cs
+D:\final project\TemplateService\obj\Debug\net10.0\TemplateService.csproj.CoreCompileInputs.cache
+D:\final project\TemplateService\obj\Debug\net10.0\TemplateService.MvcApplicationPartsAssemblyInfo.cs
+D:\final project\TemplateService\obj\Debug\net10.0\TemplateService.MvcApplicationPartsAssemblyInfo.cache
